@@ -1,6 +1,4 @@
 
----
-
 # **Correction (`corrige_evolution_variables.md`)**
 ## Correction : Suivi de l'évolution des variables
 
@@ -15,5 +13,3 @@ Voici l'évolution des variables `x` et `y` à chaque étape :
 | y = x % 3 + x | 64 | 65 | `y` est calculé comme `64 % 3 + 64 = 2 + 64 = 65`. |
 | x = y - x | 1  | 65 | `x` devient `y - x = 65 - 64 = 1`. |
 | y = x + y | 1  | 66 | `y` devient `x + y = 1 + 65 = 66`. |
-
----

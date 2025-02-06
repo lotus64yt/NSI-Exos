@@ -1,11 +1,7 @@
+# **Correction (`corrige_conditions.md`)**
+## Correction : Évaluer des conditions logiques
 
----
-
-### 2. **Correction (`corrige_conditions.md`)**
-```markdown
-# Correction : Évaluer des conditions logiques
-
-## Réponses
+### Réponses
 
 | Condition | Valeur (`True` ou `False`) |
 |-----------|---------------------------|
@@ -16,5 +12,3 @@
 | cond5     | False                     |
 | cond6     | True                      |
 | cond7     | True                      |
-
----

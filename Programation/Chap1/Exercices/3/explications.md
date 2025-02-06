@@ -28,8 +28,6 @@
    - `cond2` est **`False`**.  
    - `True or False` est **`True`**.
 
----
-
 ## Conclusion :
 - Les opérateurs de comparaison (`<`, `>`, `==`, `!=`, `>=`, `<=`) permettent d'évaluer des expressions.
 - Les opérateurs logiques (`and`, `or`) permettent de combiner plusieurs conditions.

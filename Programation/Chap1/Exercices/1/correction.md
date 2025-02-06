@@ -1,11 +1,7 @@
+# **Correction (`corrige_types_variables.md`)**
+## Correction : Identifier le type et la valeur des variables
 
----
-
-### 2. **Correction (`corrige_types_variables.md`)**
-```markdown
-# Correction : Identifier le type et la valeur des variables
-
-## Réponses
+### Réponses
 
 | Variable | Valeur | Type     |
 |----------|--------|----------|
@@ -18,7 +14,7 @@
 | g        | 32     | int      |
 | h        | 10.0   | float    |
 
-## Explication
+### Explication
 - `+`, `/` et `**` produisent des `float` si au moins un opérande est un `float`.
 - `//` force une division entière et retourne un `int`.
 - `%` retourne le reste de la division entière.
