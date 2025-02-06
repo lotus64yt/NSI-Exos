@@ -20,6 +20,7 @@ Ce repo contient des exercices classés par thème :
 2. **Essayez de résoudre** l'exercice avant de consulter la solution.
 3. **Lisez les explications** pour comprendre la logique et les concepts derrière chaque réponse.
 4. **Proposez des améliorations** en soumettant une issue ou une pull request.
+5. **Partagez** ce repo avec vos amis ou vos élèves pour les aider à réviser.
 
 ## 🛠 Contribution
 
@@ -27,7 +28,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez ajouter de nouveaux ex
 
 1. Forkez ce repo
 2. Créez une branche
-3. Faites vos modifications
+3. Faites vos modifications (ajout d'exercices, corrections, etc.)
 4. Proposez une pull request
 
 Merci de respecter la structure existante et d'ajouter des explications claires.
