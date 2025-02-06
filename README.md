@@ -13,11 +13,6 @@ Bienvenue sur ce repo GitHub regroupant des exercices de NSI (Numérique et Scie
 Ce repo contient des exercices classés par thème :
 
 - 🔢 **Algorithmique et programmation**
-- 🗂 **Structures de données** (listes, dictionnaires, arbres, graphes...)
-- 📊 **Bases de données et SQL**
-- 🔐 **Cryptographie et sécurité**
-- 🖧 **Réseaux et protocoles**
-- 🏗 **Architecture des ordinateurs**
 
 ## 🚀 Comment utiliser ce repo ?
 
